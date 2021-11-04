@@ -1,26 +1,45 @@
 # SecondMavenTravel
 重做一遍的练手项目，实现了一些简单的功能
 具体如下：
+
 1 在架构上选取了难度不大的三层架构：
+
   1.1 Web层
+  
   1.2 Service层
+  
   1.3 Dao层
+  
 2 代码的文件结构
+
   2.1 domain
+  
   2.2 dao
+  
   2.3 service
+  
   2.4 web
+  
   2.5 util
+  
 3 数据库表设计
+
   3.1 tab_user
+  
   3.2 tab_category
+  
   3.3 tab_route
+  
   3.4 tab_seller
+  
   3.5 tab_route_img
+  
   3.6 tab_favorite
   
   
   一 项目介绍：
+  
+  
      在学习JavaSE与Web的相关知识后，为了强化自己对知识掌握的熟练程度，在网上找到了该项目，
      一方面该项目涉及到大量 JavaSE、数据库、HTTP协议、Servlet 等基础知识，项目整体综合性较强。
      另一方面，这个案例尚未涉及现今比较高级热门的后端开发技术栈（SSM、SpringBoot等）以及以在高并发场景下的应对策略。
